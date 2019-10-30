@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "528317316841",
+    "firebase_url": "https://fresh-cart-7355b.firebaseio.com",
+    "project_id": "fresh-cart-7355b",
+    "storage_bucket": "fresh-cart-7355b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:528317316841:android:7e0e0179b30cb91aa4ba78",
+        "android_client_info": {
+          "package_name": "com.example.fresh_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "528317316841-jdbduqvim6g0a6i1nqh129ca4ll9qgu2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDWZwXMOvA0wb_Owowvmy1kc4isnw7EVXI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "528317316841-jdbduqvim6g0a6i1nqh129ca4ll9qgu2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
